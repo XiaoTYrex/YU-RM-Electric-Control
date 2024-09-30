@@ -8,7 +8,7 @@
   *  Version    Date            Author          Modification
   *  V1.0.0     Dec-26-2018     RM              1. done
   *  V1.1.0     Nov-11-2019     RM              1. add chassis power control
-  *  V2.1.0     Sep-22-2023     XiaoTY          1. add steer wheel control
+  *  V2.0.0     Sep-22-2023     XiaoTY          1. add steer wheel control
   @verbatim
   ==============================================================================
 
